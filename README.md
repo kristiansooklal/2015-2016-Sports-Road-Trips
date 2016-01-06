@@ -5,7 +5,7 @@ Some potential Washington Wizards and other NBA road games
 
 <table>
 <tr><td>Tickets</td><td>Day</td><td>Date</td><td>Game</td></tr>
-<tr><td>&#10004;</td><td>Wednesday</td>11/25/2015</td><td>Washington Wizards @ Charlotte Hornets</td></tr>
+<tr><td>&#10004;</td><td>Wednesday</td><td>11/25/2015</td><td>Washington Wizards @ Charlotte Hornets</td></tr>
 <tr><td>&#10004;</td><td>Friday</td><td>11/27/2015</td><td><a href = 'https://seatgeek.com/wizards-at-celtics-tickets/11-27-2015-boston-massachusetts-td-garden/nba/2759719/'>Washington Wizards @ Boston Celtics</a></td></tr>
 <tr><td>&#10004;</td><td>Tuesday</td><td>12/01/2015</td><td><a href = 'https://seatgeek.com/lakers-at-76ers-tickets/12-1-2015-philadelphia-pennsylvania-wells-fargo-center/nba/2759585/'>Los Angeles Lakers @ Philadelphia 76ers</a></td></tr>
 <tr><td></td><td>Saturday</td><td>12/26/2015</td><td><a href = 'https://seatgeek.com/wizards-at-nets-tickets/12-26-2015-brooklyn-new-york-barclays-center/nba/2759500/'>Washington Wizards @ Brooklyn Nets</a></td></tr>
