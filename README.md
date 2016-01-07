@@ -16,10 +16,10 @@ Some potential Washington Wizards and other NBA road games
 <tr><td></td><td>Tuesday</td><td>02/09/2016</td><td><a href = 'https://seatgeek.com/wizards-at-knicks-tickets/2-9-2016-new-york-new-york-madison-square-garden/nba/2759777/'>Washington Wizards @ New York Knicks</a></td></tr>
 <tr><td></td><td>Thursday</td><td>02/11/2016</td><td><a href = 'https://seatgeek.com/wizards-at-bucks-tickets/2-11-2016-milwaukee-wisconsin-bmo-harris-bradley-center/nba/2759491/'>Washington Wizards @ Milwaukee Bucks</a></td></tr>
 <tr><td></td><td>Friday</td><td>02/26/2016</td><td><a href = 'https://seatgeek.com/wizards-at-76ers-tickets/2-26-2016-philadelphia-pennsylvania-wells-fargo-center/nba/2759598/'>Washington Wizards @ Philadelphia 76ers</a></td></tr>
-<tr><td>&#10004;</td><td>Friday</td><td>03/04/2016</td><td><a href = 'https://seatgeek.com/wizards-at-76ers-tickets/2-26-2016-philadelphia-pennsylvania-wells-fargo-center/nba/2759598/'>Washington Wizards @ Cleveland Cavaliers</a></td></tr>
+<tr><td>&#10004;</td><td>Friday</td><td>03/04/2016</td><td>Washington Wizards @ Cleveland Cavaliers</td></tr>
 <tr><td></td><td>Thursday</td><td>03/17/2016</td><td><a href = 'https://seatgeek.com/wizards-at-76ers-tickets/3-17-2016-philadelphia-pennsylvania-wells-fargo-center/nba/2759600/'>Washington Wizards @ Philadelphia 76ers</a></td></tr>
 <tr><td></td><td>Sunday</td><td>03/27/2016</td><td><a href = 'https://seatgeek.com/wizards-at-lakers-tickets/3-27-2016-los-angeles-california-staples-center/nba/2759455/'>Washington Wizards @ Los Angeles Lakers</a></td></tr>
 <tr><td></td><td>Friday</td><td>04/01/2016</td><td><a href = 'https://seatgeek.com/wizards-at-suns-tickets/4-1-2016-phoenix-arizona-talking-stick-resort-arena/nba/2759453/'>Washington Wizards @ Phoenix Suns</a></td></tr>
 <tr><td></td><td>Sunday</td><td>04/03/2016</td><td><a href = 'https://seatgeek.com/wizards-at-clippers-tickets/4-3-2016-los-angeles-california-staples-center/nba/2759451/'>Washington Wizards @ Los Angeles Clippers</a></td></tr>
-<tr><td></td><td>Wednesday</td><td>04/08/2016</td><td><a href = 'https://seatgeek.com/wizards-at-pistons-tickets/4-8-2016-auburn-hills-michigan-the-palace-of-auburn-hills/nba/2759503/'>Washington Wizards @ Detroit Pistons</a></td></tr>
+<tr><td>&#10004;</td><td>Friday</td><td>04/08/2016</td><td><a href = 'https://seatgeek.com/wizards-at-pistons-tickets/4-8-2016-auburn-hills-michigan-the-palace-of-auburn-hills/nba/2759503/'>Washington Wizards @ Detroit Pistons</a></td></tr>
 </table>
